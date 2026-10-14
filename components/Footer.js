@@ -17,10 +17,10 @@ const Footer = () => {
           <Link href='/contact'>Contact</Link>
         </div>
 
-        <p className='text-sm text-purple-100'>© {year} BitLinks. All rights reserved.</p>
+        <p className='text-sm text-purple-100'>© {year} BitLinks.</p>
       </div>
-    </footer>
+    </footer> 
   )
 }
 
-export default Footer
+export default Footer 
