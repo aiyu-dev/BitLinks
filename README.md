@@ -9,7 +9,7 @@ BitLinks is a full-stack web application designed to turn long, complex URLs int
 ## 📸 Screenshots
 
 ![Home screen](./public/home.png)
-
+ 
 
 ## ✨ Key Features
 
