@@ -16,7 +16,7 @@ export default function Home() {
           <div className='flex flex-col sm:flex-row gap-3 text-white'>
             <Link href="/shorten"><button className='bg-purple-500 shadow-lg px-6 py-3 rounded-lg font-bold'>Try Now</button></Link>
             <Link href="/github"><button className='bg-purple-500 shadow-lg px-6 py-3 rounded-lg font-bold'>Github</button></Link>
-          </div>
+          </div> 
         </div>
         
         <div className="relative w-full h-72 sm:h-80 md:h-full flex items-center justify-center">
